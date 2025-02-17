@@ -1,0 +1,12 @@
+h1 {
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+
+@media screen and (max-width: 50px) {
+    h1 {
+        font-size: 1em;
+        color: brown;
+    }
+    
+}
